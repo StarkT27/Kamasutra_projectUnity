@@ -22,8 +22,9 @@ MonoBehaviour:
   s_newLanguageName: French
   firstSceneBuildInIndex: 1
   buildinList:
+  - 03_Scene_3
   - 03_Scene_2
   - 01_DefaultScene
   - 00_MainMenu
-  newSceneName: Scene_2
+  newSceneName: Scene_3
   specificChar: \
