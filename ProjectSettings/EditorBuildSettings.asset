@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/AP/Assets/Scenes/Kamasutra/03_Scene_3.unity
     guid: 10d0da621703825408a4215828e3dcad
+  - enabled: 1
+    path: Assets/AP/Assets/Scenes/Kamasutra/04_Scene_URP.unity
+    guid: fa231090350013b4c84f53c2eae4c9e2
   m_configObjects: {}
