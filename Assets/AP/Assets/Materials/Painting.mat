@@ -62,11 +62,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Painting_Texture:
-        m_Texture: {fileID: 2800000, guid: f8888e1a4617d0d4b9bf4e4fbe52d54e, type: 3}
+        m_Texture: {fileID: 2800000, guid: e586223eba955bf469bacf23d5232d24, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_408224212c9440a9801ec0621968ea54_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 4ecbf8144e7d8e4438509c48cbc521ca, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -94,18 +98,25 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
+    - _DecalMeshBiasType: 0
+    - _DecalMeshDepthBias: 0
+    - _DecalMeshViewBias: 0
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Dissolve_Amount: 0.401
+    - _Dissolve_Amount: 0.049
     - _Dissolve_Edge: 0
     - _Dissolve_Scale: 50
+    - _DrawOrder: 0
     - _DstBlend: 0
     - _EnvironmentReflections: 1
+    - _Float: -0
+    - _Float_1: 0
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
     - _Noise_Scale: 1
+    - _Normal_Tile: 10
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _QueueControl: 0
@@ -122,9 +133,10 @@ Material:
     - _scale: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _Dissolve_Color: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Paper_Color: {r: 1, g: 0.906549, b: 0.79716986, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &6302411074638996603
