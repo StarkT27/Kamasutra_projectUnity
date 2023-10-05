@@ -103,7 +103,7 @@ Material:
     - _DecalMeshViewBias: 0
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _Dissolve_Amount: 0.049
+    - _Dissolve_Amount: 1
     - _Dissolve_Edge: 0
     - _Dissolve_Scale: 50
     - _DrawOrder: 0
